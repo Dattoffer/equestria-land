@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Joueur
+  - Background
+  - Foreground
+  - Obstacles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Arriere-plan
+    uniqueID: 346079553
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Joueur
+    uniqueID: 1965607121
+    locked: 0
+  - name: Avant-plan
+    uniqueID: 4064487745
+    locked: 0
